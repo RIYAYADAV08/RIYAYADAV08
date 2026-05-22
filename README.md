@@ -11,7 +11,7 @@
 ---
 
 <img align="right" alt="coding" width="300"
-src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ## 👩‍💻 About Me
 
@@ -40,7 +40,9 @@ src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=RIYAYADAV08&theme=tokyonight"/>
 </p>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIYAYADAV08&layout=compact&theme=tokyonight"/>
+</p>
 ---
 
 ## 🌐 Connect With Me
