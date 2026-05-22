@@ -4,6 +4,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Developer;Backend+Enthusiast;JDBC+Learner;DSA+Explorer">
 </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=RIYAYADAV08&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+</p>
 
 ---
 
@@ -12,7 +15,7 @@ src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 ## 👩‍💻 About Me
 
-- 🌱 Learning Advanced Java & JDBC
+- 🌱 Learning Advanced Java 
 - 💻 Interested in Backend Development
 - 🚀 Building Real World Projects
 - 📚 Solving DSA Problems
