@@ -42,7 +42,7 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIYAYADAV08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RIYAYADAV08&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ## 🌐 Connect With Me
