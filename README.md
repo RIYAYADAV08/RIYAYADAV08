@@ -19,7 +19,6 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 💻 Interested in Backend Development
 - 🚀 Building Real World Projects
 - 📚 Solving DSA Problems
-- ⚡ Love Clean UI + Efficient Code
 
 ---
 
