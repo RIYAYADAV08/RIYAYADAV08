@@ -25,9 +25,7 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ## 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,react,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,react,nodejs,express,mongodb,git,github,vscode,aws&perline=7" />
 
 ---
 
