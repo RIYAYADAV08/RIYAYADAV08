@@ -40,9 +40,6 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=RIYAYADAV08&theme=tokyonight"/>
 </p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=RIYAYADAV08&theme=tokyonight"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIYAYADAV08&layout=compact&theme=tokyonight"/>
