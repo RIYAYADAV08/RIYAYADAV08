@@ -14,20 +14,24 @@
 <img src="https://komarev.com/ghpvc/?username=RIYAYADAV08&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riyayadav0803&label=FOLLOWERS&color=grey&style=for-the-badge" />
+<p align="left">
 
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-grey?style=for-the-badge" />
-  </a>
+<a href="https://github.com/RIYAYADAV08?tab=followers">
+  <img src="https://img.shields.io/github/followers/RIYAYADAV08?label=FOLLOWERS&style=for-the-badge" />
+</a>
 
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/RESUME-red?style=for-the-badge" />
-  </a>
+<a href="mailto:riya080305@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="YOUR_RESUME_LINK">
+  <img src="https://img.shields.io/badge/RESUME-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 </p>
-### 👩‍💻 About Me
+
+ 👩‍💻 About Me
 
 - 🚀 Aspiring Java Full Stack Developer.
 - 💻 Strong foundation in Java and Data Structures & Algorithms.
