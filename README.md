@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/github/followers/RIYAYADAV08?label=Followers&style=for-the-badge"/>
   </a>
 
-  <a href="mailto:riyayadav0803@gmail.com">
+  <a href="mailto:riya080305@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
   </a>
 
