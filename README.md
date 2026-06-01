@@ -14,15 +14,11 @@
 <img src="https://komarev.com/ghpvc/?username=RIYAYADAV08&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<p align="left">
-<a href="https://github.com/RIYAYADAV08">
-<img src="https://img.shields.io/github/followers/RIYAYADAV08?label=Followers&style=for-the-badge" />
-</a>
-
-<a href="mailto:riya080305@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
-</a>
-</p>
+<a href="#"><img src="https://img.shields.io/badge/FOLLOWERS-234-grey?style=for-the-badge"></a>
+<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/EMAIL-grey?style=for-the-badge"></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/CONTACT-red?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/RESUME-grey?style=for-the-badge"></a>
+<a href="https://github.com/yourusername?tab=repositories"><img src="https://img.shields.io/badge/VIEW-blue?style=for-the-badge"></a>
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
