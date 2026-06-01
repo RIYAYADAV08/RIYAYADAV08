@@ -24,6 +24,8 @@
   <a href="YOUR_RESUME_LINK">
     <img src="https://img.shields.io/badge/RESUME-red?style=for-the-badge" />
   </a>
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 </p>
 ### 👩‍💻 About Me
 
