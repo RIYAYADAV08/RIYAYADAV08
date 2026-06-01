@@ -1,53 +1,59 @@
 <h1 align="center">Hi 👋, I'm Riya Yadav</h1>
-<h3 align="center">Aspiring Java Full Stack Developer 🚀</h3>
+
+<h3 align="center">
+Java Full Stack Developer | DSA with Java | Backend Development Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Developer;Backend+Enthusiast;JDBC+Learner;DSA+Explorer">
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=RIYAYADAV08&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=36BCF7&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Problem+Solver;Backend+Development+Enthusiast;Continuous+Learner" />
 </p>
 
 ---
 
-<img align="right" alt="coding" width="300"
-src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
 ## 👩‍💻 About Me
 
-- 🌱 Learning Advanced Java 
-- 💻 Interested in Backend Development
-- 🚀 Building Real World Projects
-- 📚 Solving DSA Problems
-- 📫 Reach me riya080305@gmail.com
+- 🎓 Final Year B.Tech Student
+- 💻 Passionate about Java Full Stack Development
+- 📚 Solving Data Structures & Algorithms using Java
+- 🌱 Currently learning Advanced Java, JDBC and MySQL
+- 🚀 Focused on Backend Development
+- 🎯 Aspiring Software Developer
+- 📫 Reach me: **riya080305@gmail.com**
 
 ---
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,react,nodejs,express,mongodb,git,github,vscode,aws&perline=7" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode&perline=4" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=RIYAYADAV08&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RIYAYADAV08&theme=tokyonight" />
 </p>
-
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RIYAYADAV08&layout=compact&langs_count=8&theme=algolia"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RIYAYADAV08&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIYAYADAV08&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/riyayadav0803">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://github.com/RIYAYADAV08">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
