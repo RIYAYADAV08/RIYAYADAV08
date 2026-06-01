@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riya Yadav</h1>
 
 <h3 align="center">
-Java Full Stack Developer | DSA with Java | Backend Development Enthusiast
+Java Full Stack Developer
 </h3>
 
 <p align="center">
