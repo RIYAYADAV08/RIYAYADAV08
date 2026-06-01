@@ -7,35 +7,33 @@
 <h3 align="center">Aspiring Java Full Stack Developer 🚀</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;DSA+with+Java;Backend+Development+Enthusiast;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;DSA+with+Java;Spring+Boot+Learner;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RIYAYADAV08&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=RIYAYADAV08&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="left">
-  <a href="https://github.com/RIYAYADAV08">
-    <img src="https://img.shields.io/github/followers/RIYAYADAV08?label=Followers&style=for-the-badge"/>
-  </a>
+<a href="https://github.com/RIYAYADAV08">
+<img src="https://img.shields.io/github/followers/RIYAYADAV08?label=Followers&style=for-the-badge" />
+</a>
 
-  <a href="mailto:riya080305@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
-  </a>
-
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge"/>
-  </a>
+<a href="mailto:riya080305@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+</a>
 </p>
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ### 👩‍💻 About Me
 
-- 🌱 Currently learning Java Full Stack Development
-- 💻 Solving DSA problems using Java
-- 🚀 Building real-world projects
-- 💬 Ask me about Java, DSA and Web Development
+- 🚀 Aspiring Java Full Stack Developer.
+- 💻 Strong foundation in Java and Data Structures & Algorithms.
+- 🌱 Currently learning Spring Boot, REST APIs, and Backend Development.
+- 🔍 Passionate about problem-solving and software development.
+- 🎯 Working towards becoming a skilled Full Stack Developer.
+- 💬 Ask me about Java, DSA, Spring Boot, and Backend Development.
 
 <br><br>
 
@@ -60,13 +58,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=RIYAYADAV08&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RIYAYADAV08&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIYAYADAV08&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIYAYADAV08&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RIYAYADAV08&show_icons=true&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RIYAYADAV08&theme=tokyonight" />
 </p>
