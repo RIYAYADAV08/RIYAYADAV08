@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riya Yadav</h1>
-<h3 align="center">An Aspiring Java Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">An Aspiring Java Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;DSA+with+Java;Backend+Development+Enthusiast;Always+Learning+New+Technologies" />
