@@ -16,9 +16,11 @@
 
 <p align="left">
 
-<a href="https://github.com/RIYAYADAV08">
-<img src="https://img.shields.io/badge/GitHub-RIYAYADAV08-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<h2>👥 Follow Me</h2>
+
+<p>
+⭐ <a href="https://github.com/RIYAYADAV08"><b>RIYAYADAV08</b></a>
+</p>
 
 <a href="mailto:riya080305@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
