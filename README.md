@@ -45,13 +45,31 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/riyayadav0803">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Riya%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/RIYAYADAV08">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-RIYAYADAV08-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://leetcode.com/u/Riyayadavv__/">
+<img src="https://img.shields.io/badge/LeetCode-Riyayadavv__-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/riyayadvv">
+<img src="https://img.shields.io/badge/GeeksforGeeks-riyayadvv-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/riya080305">
+<img src="https://img.shields.io/badge/HackerRank-riya080305-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://unstop.com/u/riyayad13050">
+<img src="https://img.shields.io/badge/Unstop-riyayad13050-6C63FF?style=for-the-badge"/>
+</a>
+
 </p>
 
 ## 🚀 Languages & Tools
