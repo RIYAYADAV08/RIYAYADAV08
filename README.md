@@ -7,7 +7,7 @@
 <h3 align="center">Aspiring Java Full Stack Developer 🚀</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;DSA+with+Java;Spring+Boot+Learner";Open+To+Internships+And+Placements/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;DSA+with+Java;Spring+Boot+Learner;Open+To+Internships+And+Placements"/>
 </p>
 
 <p align="left">
