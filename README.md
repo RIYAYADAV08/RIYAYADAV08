@@ -16,8 +16,8 @@
 
 <p align="left">
 
-<a href="https://github.com/RIYAYADAV08?tab=followers">
-  <img src="https://img.shields.io/github/followers/RIYAYADAV08?label=FOLLOWERS&style=for-the-badge" />
+<a href="https://github.com/RIYAYADAV08">
+<img src="https://img.shields.io/badge/GitHub-RIYAYADAV08-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:riya080305@gmail.com">
@@ -31,7 +31,7 @@
 
 </p>
 
- 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🚀 Aspiring Java Full Stack Developer.
 - 💻 Strong foundation in Java and Data Structures & Algorithms.
@@ -46,28 +46,28 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/riyayadav0803">
-<img src="https://img.shields.io/badge/LinkedIn-Riya%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/riyayadav0803" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/RIYAYADAV08">
-<img src="https://img.shields.io/badge/GitHub-RIYAYADAV08-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/RIYAYADAV08" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://leetcode.com/u/Riyayadavv__/">
-<img src="https://img.shields.io/badge/LeetCode-Riyayadavv__-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/u/Riyayadavv__/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48"/>
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/riyayadvv">
-<img src="https://img.shields.io/badge/GeeksforGeeks-riyayadvv-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<a href="https://auth.geeksforgeeks.org/user/riyayadvv" target="_blank">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="48" height="48"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/riya080305">
-<img src="https://img.shields.io/badge/HackerRank-riya080305-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="https://www.hackerrank.com/profile/riya080305" target="_blank">
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="48" height="48"/>
 </a>
 
-<a href="https://unstop.com/u/riyayad13050">
-<img src="https://img.shields.io/badge/Unstop-riyayad13050-6C63FF?style=for-the-badge"/>
+<a href="https://unstop.com/u/riyayad13050" target="_blank">
+  <img src="https://cdn.simpleicons.org/googlechrome/6C63FF" width="48" height="48"/>
 </a>
 
 </p>
