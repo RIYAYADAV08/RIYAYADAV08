@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=220&section=header&text=Riya%20Yadav&fontSize=50&fontAlignY=40&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Riya Yadav</h1>
+<h1 align="center">Hi,I'm Riya Yadav</h1>
 
 <h3 align="center">Aspiring Java Full Stack Developer 🚀</h3>
 
