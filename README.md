@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=220&section=header&text=Riya%20Yadav&fontSize=50&fontAlignY=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFC107,100:FF8F00&height=220&section=header&text=Riya%20Yadav&fontSize=55&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi,I'm Riya Yadav</h1>
+<h1 align="center">Hi, I'm Riya Yadav 👋</h1>
+
+<h3 align="center">💻 Java Full Stack Developer | Spring Boot | React | PostgreSQL</h3>
 
 <h3 align="center">Aspiring Java Full Stack Developer 🚀</h3>
 
